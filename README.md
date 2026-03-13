@@ -48,16 +48,12 @@ jupyter notebook codigo/classificador_risco.ipynb
 
 ## Integrantes do Grupo
 
-| Nome            | RM       |
-| --------------- | -------- |
-| [Nome Completo] | RM000000 |
-| [Nome Completo] | RM000000 |
-| [Nome Completo] | RM000000 |
-| [Nome Completo] | RM000000 |
-
-## Vídeo de Demonstração
-
-🎥 [Link do YouTube (não listado)](https://www.youtube.com/watch?v=SEU_LINK_AQUI)
+| Nome   | RM       |
+| ------ | -------- |
+| João   | RM565999 |
+| Endrew | RM563646 |
+| Tayna  | RM562491 |
+| Carlos | RM566487 |
 
 ## Tecnologias Utilizadas
 
