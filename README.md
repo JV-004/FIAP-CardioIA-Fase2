@@ -55,6 +55,12 @@ jupyter notebook codigo/classificador_risco.ipynb
 | Tayna  | RM562491 |
 | Carlos | RM566487 |
 
+## Vídeo de Demonstração
+
+<!-- TODO (Pessoa 4): gravar vídeo, postar no YouTube como não listado e colocar o link aqui -->
+
+🎥 Link: _a adicionar_
+
 ## Tecnologias Utilizadas
 
 - Python 3.x
@@ -65,12 +71,12 @@ jupyter notebook codigo/classificador_risco.ipynb
 
 ## Divisão de Funções
 
-| Pessoa   | Função           | Responsabilidade                                     |
-| -------- | ---------------- | ---------------------------------------------------- |
-| Pessoa 1 | Data Designer    | Criação dos arquivos de dados                        |
-| Pessoa 2 | NLP              | Extração de sintomas (`extracao_sintomas.ipynb`)     |
-| Pessoa 3 | Machine Learning | Classificador de risco (`classificador_risco.ipynb`) |
-| Pessoa 4 | Documentação     | GitHub, README e vídeo                               |
+| Pessoa   | Função           | Responsabilidade                                      | Status       |
+| -------- | ---------------- | ----------------------------------------------------- | ------------ |
+| Pessoa 1 | Data Designer    | Criação dos arquivos de dados                         | ✅ Concluído |
+| Pessoa 2 | NLP              | Extração de sintomas (`extracao_sintomas.ipynb`)      | ✅ Concluído |
+| Pessoa 3 | Machine Learning | Classificador de risco (`classificador_risco.ipynb`)  | ⏳ Pendente  |
+| Pessoa 4 | Documentação     | Finalizar README, vídeo e organização final do GitHub | ⏳ Pendente  |
 
 ---
 
